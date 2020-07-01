@@ -1,0 +1,14 @@
+Cohort Analysis
+-By Ankit Kumar
+
+>Dataset
+Data used in this project is of “Online Retail Data Set” from the UCI Machine Learning Repository. This is a transaction data set containing all the transaction between 12/01/2010 and 12/09/2011 for UK-based online retail. The number of instances is around 5 lacs. It is a relatively clean data set for exploring the usability and testing for customer behavior, especially for cohort analysis.
+
+>Cohort Analysis is a powerful tool for tracking user behaviors on the product. It is highly flexible. The time period can be changed from month to week even day-basis. Multiple metrics can be used in the diverse behavioral measurement.
+
+>Project Workflow :
+
+    -Dataset exploration and cleaning
+    -Create a cohort
+    -Visualize the cohort analysis
+
